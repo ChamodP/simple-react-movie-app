@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +40,31 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.search-bar{
+  margin: 20px;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.movie-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+input{
+  width: 40%;
+  padding: 8px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border-radius: 8px 0 0 8px;
+  text-decoration: none;
+}
+
+button{
+  font-size: 16px;
+  padding: 8px;
+  border-radius:  0 8px 8px 0;
 }
