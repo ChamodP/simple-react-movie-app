@@ -15,13 +15,13 @@ Welcome to MovieSearch Hub, a simple and intuitive web application that allows u
 - Clean UI: A user-friendly interface for a hassle-free movie search.
 
 ## Technologies Used:
-*React: The front-end is built using the popular React library.
-*OMDb API: Leveraging the Open Movie Database API for accurate and up-to-date movie information.
+* React: The front-end is built using the popular React library.
+* OMDb API: Leveraging the Open Movie Database API for accurate and up-to-date movie information.
 
 ## Getting Started:
--Clone the repository.
--Install dependencies using npm install.
--Set up your OMDb API key in the .env file.
--Run the app with npm start.
+- Clone the repository.
+- Install dependencies using npm install.
+- Set up your OMDb API key in the .env file.
+- Run the app with npm start.
 
 ###### Feel free to contribute, report issues, or suggest improvements. Happy movie searching!
