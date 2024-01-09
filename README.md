@@ -3,7 +3,7 @@
 Welcome to MovieSearch Hub, a simple and intuitive web application that allows users to search for their favorite movies effortlessly. Powered by the Open Movie Database (OMDb) API, this React-based app provides a seamless movie search experience.
 
 ### Screenshots:
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ChamodP/simple-react-movie-app/blob/258ff0546ba9bdb7c65c36bc1659058d716e5179/Screenshot%202024-01-10%20012541.png?raw=true)
 
 ### Key Features:
 
